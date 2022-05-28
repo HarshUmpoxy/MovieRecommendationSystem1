@@ -1,0 +1,2 @@
+# MovieRecommendationSystem1
+A Recommendation system for movies where the data is collected from Kaggle. It has login, registration Support and logout page along with the main recommendation page. Users get to enter the movie name from the list of 5000 movies where he/she is recommended 5 most similar movies along with their posters. Flask framework has been used for the backend and the user data has been stored in mySQL workbench locally.
